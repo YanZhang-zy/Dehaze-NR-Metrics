@@ -1,0 +1,10 @@
+{
+  "fade": {
+    "natural_fogfree_image_features_ps8.mat": "9a1812bcb2318908d864a53163e32cb430e92dddb88579ea02ee944f020d69cb",
+    "natural_foggy_image_features_ps8.mat": "1de98cec133b367f6d2d9cfa039a2d53892a1606ea9f4b216d5b08f73b346afd"
+  },
+  "biqme": {
+    "model": "c211b7770088324f3f0462cc34c343fecae3ce45fef64321d117c35b811cae2a",
+    "range": "1f5da68f379d50cddd76e9bc05c0ed00623830ff2afac81cf9dbd9cb9562281c"
+  }
+}

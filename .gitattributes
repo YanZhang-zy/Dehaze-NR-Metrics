@@ -1,0 +1,6 @@
+# Preserve the exact parameter hashes on every checkout, including Windows.
+dehaze_nr_metrics/fade/data/** -text
+dehaze_nr_metrics/biqme/data/** -text
+matlab/FADE/** -text
+matlab/BIQME/** -text
+examples/Fattal/**/*.png -text
